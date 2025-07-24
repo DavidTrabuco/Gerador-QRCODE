@@ -34,3 +34,4 @@ Este é um projeto simples de um **Gerador de QR Code**, desenvolvido com **HTML
 ---
 
 ## 📁 Estrutura do Projeto
+<img width="1873" height="960" alt="image" src="https://github.com/user-attachments/assets/9a30ce64-a29b-469a-a070-826e2fcbab06" />
