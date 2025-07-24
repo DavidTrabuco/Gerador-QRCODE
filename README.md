@@ -1,4 +1,4 @@
-# 📱 Projeto: Gerador de QR Code
+# 📱 Projeto: Gerador de QR Code Atualizado
 
 Este é um projeto simples de um **Gerador de QR Code**, desenvolvido com **HTML**, **CSS** e **JavaScript**, utilizando uma **API externa** para gerar os códigos a partir de qualquer texto ou link informado pelo usuário.
 
